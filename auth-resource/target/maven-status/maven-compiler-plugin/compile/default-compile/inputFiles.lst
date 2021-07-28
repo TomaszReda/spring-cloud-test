@@ -1,0 +1,5 @@
+/home/treda/IdeaProjects/tutorials/spring-cloud/spring-cloud-security/auth-resource/src/main/java/com/baeldung/Application.java
+/home/treda/IdeaProjects/tutorials/spring-cloud/spring-cloud-security/auth-resource/src/main/java/com/baeldung/controller/ResourceController.java
+/home/treda/IdeaProjects/tutorials/spring-cloud/spring-cloud-security/auth-resource/src/main/java/com/baeldung/controller/PersonInfoController.java
+/home/treda/IdeaProjects/tutorials/spring-cloud/spring-cloud-security/auth-resource/src/main/java/com/baeldung/config/ResourceConfigurer.java
+/home/treda/IdeaProjects/tutorials/spring-cloud/spring-cloud-security/auth-resource/src/main/java/com/baeldung/model/Person.java

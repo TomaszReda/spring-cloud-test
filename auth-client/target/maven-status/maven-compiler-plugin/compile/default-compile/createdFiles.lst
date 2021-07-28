@@ -1,0 +1,4 @@
+com/baeldung/filters/SimpleFilter.class
+com/baeldung/controller/CloudSiteController.class
+com/baeldung/CloudSite.class
+com/baeldung/config/SiteSecurityConfigurer.class

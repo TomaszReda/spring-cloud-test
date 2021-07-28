@@ -1,0 +1,5 @@
+com/baeldung/model/Person.class
+com/baeldung/Application.class
+com/baeldung/controller/ResourceController.class
+com/baeldung/config/ResourceConfigurer.class
+com/baeldung/controller/PersonInfoController.class
