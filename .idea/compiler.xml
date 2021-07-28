@@ -15,6 +15,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="auth-client" target="16" />
       <module name="spring-config-server" target="11" />
     </bytecodeTargetLevel>
   </component>
